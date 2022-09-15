@@ -36,3 +36,6 @@
 2. Run the frontend server
 
     > Change the directory to 'frontend' and run 'npm run start' in terminal
+    
+### Video explanation of code setup for better understanding
+[See video](https://youtu.be/l1XK7tbkzTM "Video explanation for code setup")
